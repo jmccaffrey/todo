@@ -2,7 +2,8 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.0.7'
 
-gem 'sqlite3'
+#gem 'sqlite3' # turn on if you want it locally
+gem 'pg'
 gem 'jammit'
 gem 'jquery-rails'
 
